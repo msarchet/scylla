@@ -1,0 +1,28 @@
+{
+  "name": "scylla",
+  "version": "0.1.0",
+  "description": "A tool to transform MIDI/UDP/OSC request and send them along.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msarchet/scylla.git"
+  },
+  "keywords": [
+    "live-coding",
+    "midi",
+    "udp",
+    "osc",
+    "router",
+    "orca",
+    "synth"
+  ],
+  "author": "Michael Sarchet <mikesarchet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msarchet/scylla/issues"
+  },
+  "homepage": "https://github.com/msarchet/scylla#readme"
+}
